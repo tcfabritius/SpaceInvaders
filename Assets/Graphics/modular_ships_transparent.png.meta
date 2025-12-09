@@ -1,0 +1,3711 @@
+fileFormatVersion: 2
+guid: fc5e05685bddefb48b56a9f7545e5e00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2376449381267290024
+    second: modular_ships_transparent_0
+  - first:
+      213: 5541702758650067179
+    second: modular_ships_transparent_1
+  - first:
+      213: 5041764081555146950
+    second: modular_ships_transparent_2
+  - first:
+      213: -1546184942418274559
+    second: modular_ships_transparent_3
+  - first:
+      213: 6529587353792446761
+    second: modular_ships_transparent_4
+  - first:
+      213: 6049666926848157690
+    second: modular_ships_transparent_5
+  - first:
+      213: -1704993429543861031
+    second: modular_ships_transparent_6
+  - first:
+      213: -8437513350592854349
+    second: modular_ships_transparent_7
+  - first:
+      213: -5775612394212073652
+    second: modular_ships_transparent_8
+  - first:
+      213: -1413967881414348253
+    second: modular_ships_transparent_9
+  - first:
+      213: 2491752943879594937
+    second: modular_ships_transparent_10
+  - first:
+      213: -8215345311829767702
+    second: modular_ships_transparent_11
+  - first:
+      213: -1522022229713995492
+    second: modular_ships_transparent_12
+  - first:
+      213: -4590760334741048652
+    second: modular_ships_transparent_13
+  - first:
+      213: 1965976620947352015
+    second: modular_ships_transparent_14
+  - first:
+      213: -3702508924439604024
+    second: modular_ships_transparent_15
+  - first:
+      213: 3227293078109659119
+    second: modular_ships_transparent_16
+  - first:
+      213: 4796515003617532865
+    second: modular_ships_transparent_17
+  - first:
+      213: 6846622915875739863
+    second: modular_ships_transparent_18
+  - first:
+      213: 1303568442459863848
+    second: modular_ships_transparent_19
+  - first:
+      213: -637910522019509906
+    second: modular_ships_transparent_20
+  - first:
+      213: 1979525287149211198
+    second: modular_ships_transparent_21
+  - first:
+      213: 602365252905862826
+    second: modular_ships_transparent_22
+  - first:
+      213: -8846824504704885509
+    second: modular_ships_transparent_23
+  - first:
+      213: 790698836419210795
+    second: modular_ships_transparent_24
+  - first:
+      213: -3533464273994291821
+    second: modular_ships_transparent_25
+  - first:
+      213: -8725444932624194867
+    second: modular_ships_transparent_26
+  - first:
+      213: 3725849365560889559
+    second: modular_ships_transparent_27
+  - first:
+      213: 3549415885036077377
+    second: modular_ships_transparent_28
+  - first:
+      213: 2581138322892717743
+    second: modular_ships_transparent_29
+  - first:
+      213: 63297005966506975
+    second: modular_ships_transparent_30
+  - first:
+      213: 8173598454174352140
+    second: modular_ships_transparent_31
+  - first:
+      213: -5850438194594363822
+    second: modular_ships_transparent_32
+  - first:
+      213: -2267460671638419399
+    second: modular_ships_transparent_33
+  - first:
+      213: -3588412216683906861
+    second: modular_ships_transparent_34
+  - first:
+      213: 9056060222146359767
+    second: modular_ships_transparent_35
+  - first:
+      213: 850203295615917828
+    second: modular_ships_transparent_36
+  - first:
+      213: 5388303824679368209
+    second: modular_ships_transparent_37
+  - first:
+      213: 7696925144637437450
+    second: modular_ships_transparent_38
+  - first:
+      213: -4327627472491466104
+    second: modular_ships_transparent_39
+  - first:
+      213: 7621749084564003932
+    second: modular_ships_transparent_40
+  - first:
+      213: -3173249137082875207
+    second: modular_ships_transparent_41
+  - first:
+      213: 4015978633902268398
+    second: modular_ships_transparent_42
+  - first:
+      213: 1362002687088278063
+    second: modular_ships_transparent_43
+  - first:
+      213: -7565421542661361687
+    second: modular_ships_transparent_44
+  - first:
+      213: -1572849798733732689
+    second: modular_ships_transparent_45
+  - first:
+      213: 2010226582005030764
+    second: modular_ships_transparent_46
+  - first:
+      213: 8879450264371909296
+    second: modular_ships_transparent_47
+  - first:
+      213: -6274531518300885719
+    second: modular_ships_transparent_48
+  - first:
+      213: 110524498136394192
+    second: modular_ships_transparent_49
+  - first:
+      213: -3629181810468097762
+    second: modular_ships_transparent_50
+  - first:
+      213: 7802538001621631456
+    second: modular_ships_transparent_51
+  - first:
+      213: 5434694929470182679
+    second: modular_ships_transparent_52
+  - first:
+      213: 8272088389567643776
+    second: modular_ships_transparent_53
+  - first:
+      213: -2182362191167717648
+    second: modular_ships_transparent_54
+  - first:
+      213: 1314991214274688998
+    second: modular_ships_transparent_55
+  - first:
+      213: -1150260952758381689
+    second: modular_ships_transparent_56
+  - first:
+      213: -7368001895104893443
+    second: modular_ships_transparent_57
+  - first:
+      213: 7033499451458632280
+    second: modular_ships_transparent_58
+  - first:
+      213: -1094886309527591398
+    second: modular_ships_transparent_59
+  - first:
+      213: -67513913504733351
+    second: modular_ships_transparent_60
+  - first:
+      213: 2238414965760560274
+    second: modular_ships_transparent_61
+  - first:
+      213: -8547834143706999276
+    second: modular_ships_transparent_62
+  - first:
+      213: 7442487057558437333
+    second: modular_ships_transparent_63
+  - first:
+      213: -7353299474087658447
+    second: modular_ships_transparent_64
+  - first:
+      213: -9008470420973915779
+    second: modular_ships_transparent_65
+  - first:
+      213: 2405196726275871791
+    second: modular_ships_transparent_66
+  - first:
+      213: 7452157268657654917
+    second: modular_ships_transparent_67
+  - first:
+      213: 5413221371806081937
+    second: modular_ships_transparent_68
+  - first:
+      213: -3101994285644154550
+    second: modular_ships_transparent_69
+  - first:
+      213: 9053724105267354873
+    second: modular_ships_transparent_70
+  - first:
+      213: -279249492930312830
+    second: modular_ships_transparent_71
+  - first:
+      213: -1815266926046846088
+    second: modular_ships_transparent_72
+  - first:
+      213: 7797946795818560196
+    second: modular_ships_transparent_73
+  - first:
+      213: -1644389491374155970
+    second: modular_ships_transparent_74
+  - first:
+      213: -5105134428406159244
+    second: modular_ships_transparent_75
+  - first:
+      213: 4325410223994858893
+    second: modular_ships_transparent_76
+  - first:
+      213: 5095833232313538162
+    second: modular_ships_transparent_77
+  - first:
+      213: 474615199500287414
+    second: modular_ships_transparent_78
+  - first:
+      213: 172932932829751577
+    second: modular_ships_transparent_79
+  - first:
+      213: -6204753338448535688
+    second: modular_ships_transparent_80
+  - first:
+      213: -7786686302737139571
+    second: modular_ships_transparent_81
+  - first:
+      213: -7492357753313233503
+    second: modular_ships_transparent_82
+  - first:
+      213: 5570212598456858397
+    second: modular_ships_transparent_83
+  - first:
+      213: 1024411927105295342
+    second: modular_ships_transparent_84
+  - first:
+      213: -474125086648205376
+    second: modular_ships_transparent_85
+  - first:
+      213: -2265282298655552390
+    second: modular_ships_transparent_86
+  - first:
+      213: 6442203974424942790
+    second: modular_ships_transparent_87
+  - first:
+      213: 1216902872096659838
+    second: modular_ships_transparent_88
+  - first:
+      213: -5751531529005014387
+    second: modular_ships_transparent_89
+  - first:
+      213: 6494625207756334259
+    second: modular_ships_transparent_90
+  - first:
+      213: -1465516107882140003
+    second: modular_ships_transparent_91
+  - first:
+      213: 3060057484474250292
+    second: modular_ships_transparent_92
+  - first:
+      213: -2965744412214739013
+    second: modular_ships_transparent_93
+  - first:
+      213: -3085975441678014227
+    second: modular_ships_transparent_94
+  - first:
+      213: -6919060862035800776
+    second: modular_ships_transparent_95
+  - first:
+      213: 9175438624543718305
+    second: modular_ships_transparent_96
+  - first:
+      213: -7264197176863982456
+    second: modular_ships_transparent_97
+  - first:
+      213: 1193542794252461029
+    second: modular_ships_transparent_98
+  - first:
+      213: -4517285215693488493
+    second: modular_ships_transparent_99
+  - first:
+      213: 736775616976331778
+    second: modular_ships_transparent_100
+  - first:
+      213: -4148198404683702399
+    second: modular_ships_transparent_101
+  - first:
+      213: -908803524316989686
+    second: modular_ships_transparent_102
+  - first:
+      213: 8935110783737999202
+    second: modular_ships_transparent_103
+  - first:
+      213: -1323099419470391826
+    second: modular_ships_transparent_104
+  - first:
+      213: -8615947386234648555
+    second: modular_ships_transparent_105
+  - first:
+      213: 8674203480900300109
+    second: modular_ships_transparent_106
+  - first:
+      213: 4056483556318102748
+    second: modular_ships_transparent_107
+  - first:
+      213: -4166316821128391394
+    second: modular_ships_transparent_108
+  - first:
+      213: 6840535205280941935
+    second: modular_ships_transparent_109
+  - first:
+      213: -5507694458669909692
+    second: modular_ships_transparent_110
+  - first:
+      213: 8748141469675221045
+    second: modular_ships_transparent_111
+  - first:
+      213: 342006663653987466
+    second: modular_ships_transparent_112
+  - first:
+      213: -7514825375564042871
+    second: modular_ships_transparent_113
+  - first:
+      213: -8312252070509575435
+    second: modular_ships_transparent_114
+  - first:
+      213: 5763761076295718551
+    second: modular_ships_transparent_115
+  - first:
+      213: 3816231576837182029
+    second: modular_ships_transparent_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: modular_ships_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 471
+        width: 122
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858cdd2f0e7250fd0800000000000000
+      internalID: -2376449381267290024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 431
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8b32c3c4518ec40800000000000000
+      internalID: 5541702758650067179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 431
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c80b6248b1f7f540800000000000000
+      internalID: 5041764081555146950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 431
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107d916acf8da8ae0800000000000000
+      internalID: -1546184942418274559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 431
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9218ea06a11cd9a50800000000000000
+      internalID: 6529587353792446761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 431
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7a638740cb4f350800000000000000
+      internalID: 6049666926848157690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 431
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4c9af5285a658e0800000000000000
+      internalID: -1704993429543861031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 431
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b60c4ebf4ee7ea80800000000000000
+      internalID: -8437513350592854349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 431
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f55a2c027e8dfa0800000000000000
+      internalID: -5775612394212073652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 431
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3227c7014b3906ce0800000000000000
+      internalID: -1413967881414348253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 431
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b32affb91c749220800000000000000
+      internalID: 2491752943879594937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 431
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9473537fa3dfd80800000000000000
+      internalID: -8215345311829767702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 431
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1936a998d0b0eae0800000000000000
+      internalID: -1522022229713995492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 407
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b27ec66cc75a40c0800000000000000
+      internalID: -4590760334741048652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 407
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc92a40125d884b10800000000000000
+      internalID: 1965976620947352015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 407
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4501dffbb0e9cc0800000000000000
+      internalID: -3702508924439604024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 407
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef9dc2a4f5a9cc20800000000000000
+      internalID: 3227293078109659119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 407
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb54769bf4a09240800000000000000
+      internalID: 4796515003617532865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 407
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d892db5447140f50800000000000000
+      internalID: 6846622915875739863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 407
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bba318794371210800000000000000
+      internalID: 1303568442459863848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 407
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e690b8092cfa527f0800000000000000
+      internalID: -637910522019509906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 383
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e8e6cb2cfa87b10800000000000000
+      internalID: 1979525287149211198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 383
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa60e7c81080c5800800000000000000
+      internalID: 602365252905862826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 387
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc18d64cf3c93580800000000000000
+      internalID: -8846824504704885509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ee415076029fa00800000000000000
+      internalID: 790698836419210795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 375
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3956902c6fc96fec0800000000000000
+      internalID: -3533464273994291821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 383
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2e3bb201ef8e680800000000000000
+      internalID: -8725444932624194867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 383
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d01fd0f140e4b330800000000000000
+      internalID: 3725849365560889559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 387
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14144bb11fe024130800000000000000
+      internalID: 3549415885036077377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 383
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faefa2411ab02d320800000000000000
+      internalID: 2581138322892717743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 375
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbbaf3aa40e0e000800000000000000
+      internalID: 63297005966506975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 351
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c038ebd0d747e6170800000000000000
+      internalID: 8173598454174352140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 351
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25643de75711fcea0800000000000000
+      internalID: -5850438194594363822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 355
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938c2dc588c5880e0800000000000000
+      internalID: -2267460671638419399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d832e4e916633ec0800000000000000
+      internalID: -3588412216683906861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 351
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1349d7ac69dad70800000000000000
+      internalID: 9056060222146359767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 351
+        width: 82
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f9d0e84678ccb00800000000000000
+      internalID: 850203295615917828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 351
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11674e3b7c917ca40800000000000000
+      internalID: 5388303824679368209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 351
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06f2e493a8f0da60800000000000000
+      internalID: 7696925144637437450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 351
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882bce51ebd21f3c0800000000000000
+      internalID: -4327627472491466104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 351
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c98902964e5c960800000000000000
+      internalID: 7621749084564003932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 355
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b24c50f8ba56f3d0800000000000000
+      internalID: -3173249137082875207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef9d4b3a4f9bb730800000000000000
+      internalID: 4015978633902268398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 351
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a360b4a3ec6e210800000000000000
+      internalID: 1362002687088278063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_44
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 351
+        width: 82
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efe495b039320790800000000000000
+      internalID: -7565421542661361687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_45
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 353
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa46e6df07d1c2ae0800000000000000
+      internalID: -1572849798733732689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_46
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 351
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f157afc62c5eb10800000000000000
+      internalID: 2010226582005030764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 327
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2d2a858f42a3b70800000000000000
+      internalID: 8879450264371909296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_48
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 327
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92deea7f3d26ce8a0800000000000000
+      internalID: -6274531518300885719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_49
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 327
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9e56a0279a88100800000000000000
+      internalID: 110524498136394192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_50
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 327
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e117db12f5e82adc0800000000000000
+      internalID: -3629181810468097762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_51
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 327
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1c42d09fe284c60800000000000000
+      internalID: 7802538001621631456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_52
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 327
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715dfad7e3aeb6b40800000000000000
+      internalID: 5434694929470182679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08000da109c5cc270800000000000000
+      internalID: 8272088389567643776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_54
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 287
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe74385621b6b1e0800000000000000
+      internalID: -2182362191167717648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_55
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 287
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e73a91da89cf3210800000000000000
+      internalID: 1314991214274688998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_56
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 287
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78395dff1c37900f0800000000000000
+      internalID: -1150260952758381689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_57
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd2ed150599fb990800000000000000
+      internalID: -7368001895104893443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_58
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 287
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ab81c6c720c9160800000000000000
+      internalID: 7033499451458632280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_59
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 287
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a166b23d3be2ec0f0800000000000000
+      internalID: -1094886309527591398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_60
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 287
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95767201474201ff0800000000000000
+      internalID: -67513913504733351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_61
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 287
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c831e3d82701f10800000000000000
+      internalID: 2238414965760560274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_62
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 287
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4169369722eff5980800000000000000
+      internalID: -8547834143706999276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_63
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 287
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd763ffb86094760800000000000000
+      internalID: 7442487057558437333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_64
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 287
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c30f77615d3f990800000000000000
+      internalID: -7353299474087658447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 263
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d717c3c81eb7bf280800000000000000
+      internalID: -9008470420973915779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_66
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 263
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f241b94eda9f06120800000000000000
+      internalID: 2405196726275871791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_67
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 263
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c4fa87d816b6760800000000000000
+      internalID: 7452157268657654917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_68
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 263
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193ed0d3820af1b40800000000000000
+      internalID: 5413221371806081937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_69
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 263
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4973ecd1a083f4d0800000000000000
+      internalID: -3101994285644154550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_70
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 263
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc1ad4ea1a45ad70800000000000000
+      internalID: 9053724105267354873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_71
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 263
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2854e22d018ef1cf0800000000000000
+      internalID: -279249492930312830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_72
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 263
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87366743950eec6e0800000000000000
+      internalID: -1815266926046846088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 239
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca2926ab4fd73c60800000000000000
+      internalID: 7797946795818560196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_74
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 239
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37124e4874fd29e0800000000000000
+      internalID: -1644389491374155970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_75
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 243
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478eb38194be629b0800000000000000
+      internalID: -5105134428406159244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_76
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 239
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d6e058ea1f60c30800000000000000
+      internalID: 4325410223994858893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_77
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 231
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276ddae635908b640800000000000000
+      internalID: 5095833232313538162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_78
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 239
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd3733620c269600800000000000000
+      internalID: 474615199500287414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_79
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 239
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919a84f0691666200800000000000000
+      internalID: 172932932829751577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_80
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 243
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f1bde76b944e9a0800000000000000
+      internalID: -6204753338448535688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_81
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 239
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88f3f3301220f390800000000000000
+      internalID: -7786686302737139571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_82
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 231
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5fe9fc15cc50890800000000000000
+      internalID: -7492357753313233503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_83
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d173d6698de5d4d40800000000000000
+      internalID: 5570212598456858397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 207
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3d8ca5831773e00800000000000000
+      internalID: 1024411927105295342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 211
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf7b37eeb19b69f0800000000000000
+      internalID: -474125086648205376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_86
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cc7a850c91090e0800000000000000
+      internalID: -2265282298655552390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_87
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 207
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8553ae16e476950800000000000000
+      internalID: 6442203974424942790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 207
+        width: 82
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e795979f6be43e010800000000000000
+      internalID: 1216902872096659838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_89
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 207
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82623b1c847e20b0800000000000000
+      internalID: -5751531529005014387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_90
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 207
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b42d99673b812a50800000000000000
+      internalID: 6494625207756334259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_91
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 207
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e62115dd079abe0800000000000000
+      internalID: -1465516107882140003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 207
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434fc5ab112877a20800000000000000
+      internalID: 3060057484474250292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_93
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 211
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf37579b2f87d6d0800000000000000
+      internalID: -2965744412214739013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_94
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8e33d9fa96c25d0800000000000000
+      internalID: -3085975441678014227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_95
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 207
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d4c030ece8aff90800000000000000
+      internalID: -6919060862035800776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_96
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 207
+        width: 82
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abb352c0d4b55f70800000000000000
+      internalID: 9175438624543718305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_97
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 207
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c70aea723603b90800000000000000
+      internalID: -7264197176863982456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_98
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 207
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e325a309d0509010800000000000000
+      internalID: 1193542794252461029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_99
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 183
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e3779a7016f41c0800000000000000
+      internalID: -4517285215693488493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_100
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 183
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2042b01258d893a00800000000000000
+      internalID: 736775616976331778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_101
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 183
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f5cfe6783ae66c0800000000000000
+      internalID: -4148198404683702399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_102
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 183
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07767a72084363f0800000000000000
+      internalID: -908803524316989686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_103
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 183
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f2775eae3effb70800000000000000
+      internalID: 8935110783737999202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_104
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 183
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee511fb861863ade0800000000000000
+      internalID: -1323099419470391826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_105
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 127
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518470060810e6880800000000000000
+      internalID: -8615947386234648555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_106
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4de484ab16f06870800000000000000
+      internalID: 8674203480900300109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_107
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 111
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4cd836d468b4830800000000000000
+      internalID: 4056483556318102748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy3_body
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 88
+        width: 16
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1558eedce44e26c0800000000000000
+      internalID: -4166316821128391394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy4_body
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 88
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f670358c6867eee50800000000000000
+      internalID: 6840535205280941935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1_body
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449b793221db093b0800000000000000
+      internalID: -5507694458669909692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_111
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 71
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530fad82154a76970800000000000000
+      internalID: 8748141469675221045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_112
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8499e1af3d0fb400800000000000000
+      internalID: 342006663653987466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBase
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98de96cd22af5b790800000000000000
+      internalID: -7514825375564042871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_114
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 31
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f285c538c2f4ac80800000000000000
+      internalID: -8312252070509575435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_115
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 39
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79654d2492efcff40800000000000000
+      internalID: 5763761076295718551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_body
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 11
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42520e566af5f430800000000000000
+      internalID: 3816231576837182029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_117
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 184
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9255ee9f00a0244bedf948820ddd9d
+      internalID: 1588712897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_118
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 184
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b02a8f186210e8418c34a1e5d4e2ec9
+      internalID: -541997206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_119
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 184
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363aa407abccc5e44a828a886551f415
+      internalID: -873398833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_120
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 184
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8559644a0a2bbcc4096be9fab6adaf4a
+      internalID: 1006971427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_121
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 185
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802e8eb84a94c644f99acfd73274a220
+      internalID: 1487637316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_122
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 183
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f617dcd1925aa9943898be295ef66a71
+      internalID: -854748056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_123
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 183
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c740af648a5a194dadb833cf67e5dbd
+      internalID: 1854840298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modular_ships_transparent_124
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 183
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf1986e8bc37544cb3fffa93a73441f
+      internalID: 1589731195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerGunR
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05db9f2418562b140ad50182bb519370
+      internalID: -1136115870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWingR
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 23
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c7e46ae20d5ea42ac0e16efbe0dd72
+      internalID: 1532601420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerGunL
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 16
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306c8210a4af0d8428044e48e67c0de4
+      internalID: 1880382305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWingL
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c650dc1d04f1ae4983067724fa2f19c
+      internalID: 271082638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1_LGun
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa1a69a02c091b469e6e2a7f8b83ef8
+      internalID: 1343734545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy1_RGun
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 80
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07037834dddf63f4fbbaa83d14e6f8b5
+      internalID: 1214593663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_RGun
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aed03454c469e047ad3e4d5965f9d3f
+      internalID: 825142184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_LGun
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f7d418fb59a7c48ba30a23153a3256
+      internalID: -1346360817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy3_Lgun
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 104
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f51a922d7e0a348b8c197da78eb217
+      internalID: -1443495523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy3_Rgun
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 104
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795a147b6993b74438f9d11b0ea6255f
+      internalID: -168397774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy3_Lmotor
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 80
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06567465b7e98eb4aa286e994931a71c
+      internalID: -1782913179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy3_Rmotor
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 80
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb39ec645cd5a394dac4ce20952386ab
+      internalID: -1902419845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy4_RGun
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 113
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8346d1c4a0549f848a6dc5f28c8330b2
+      internalID: 919589330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy4_RSpike
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 104
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd34ddf981e4194e8d51dd88669b8aa
+      internalID: 833519946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy4_LGun
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc433c40bac2354f8b454eafc1a7c54
+      internalID: 548073356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy4_LSpike
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 105
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf326bfe12660e47a26448912277a9f
+      internalID: -1798230948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 449badb3803063b46ba5383ffd56be1a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemy1_LGun: 1343734545
+      Enemy1_RGun: 1214593663
+      Enemy1_body: -5507694458669909692
+      Enemy2_LGun: -1346360817
+      Enemy2_RGun: 825142184
+      Enemy2_body: 3816231576837182029
+      Enemy3_Lgun: -1443495523
+      Enemy3_Lmotor: -1782913179
+      Enemy3_Rgun: -168397774
+      Enemy3_Rmotor: -1902419845
+      Enemy3_body: -4166316821128391394
+      Enemy4_LGun: 548073356
+      Enemy4_LSpike: -1798230948
+      Enemy4_RGun: 919589330
+      Enemy4_RSpike: 833519946
+      Enemy4_body: 6840535205280941935
+      PlayerBase: -7514825375564042871
+      PlayerGunL: 1880382305
+      PlayerGunR: -1136115870
+      PlayerWingL: 271082638
+      PlayerWingR: 1532601420
+      modular_ships_transparent_0: -2376449381267290024
+      modular_ships_transparent_1: 5541702758650067179
+      modular_ships_transparent_10: 2491752943879594937
+      modular_ships_transparent_100: 736775616976331778
+      modular_ships_transparent_101: -4148198404683702399
+      modular_ships_transparent_102: -908803524316989686
+      modular_ships_transparent_103: 8935110783737999202
+      modular_ships_transparent_104: -1323099419470391826
+      modular_ships_transparent_105: -8615947386234648555
+      modular_ships_transparent_106: 8674203480900300109
+      modular_ships_transparent_107: 4056483556318102748
+      modular_ships_transparent_11: -8215345311829767702
+      modular_ships_transparent_111: 8748141469675221045
+      modular_ships_transparent_112: 342006663653987466
+      modular_ships_transparent_114: -8312252070509575435
+      modular_ships_transparent_115: 5763761076295718551
+      modular_ships_transparent_117: 1588712897
+      modular_ships_transparent_118: -541997206
+      modular_ships_transparent_119: -873398833
+      modular_ships_transparent_12: -1522022229713995492
+      modular_ships_transparent_120: 1006971427
+      modular_ships_transparent_121: 1487637316
+      modular_ships_transparent_122: -854748056
+      modular_ships_transparent_123: 1854840298
+      modular_ships_transparent_124: 1589731195
+      modular_ships_transparent_13: -4590760334741048652
+      modular_ships_transparent_14: 1965976620947352015
+      modular_ships_transparent_15: -3702508924439604024
+      modular_ships_transparent_16: 3227293078109659119
+      modular_ships_transparent_17: 4796515003617532865
+      modular_ships_transparent_18: 6846622915875739863
+      modular_ships_transparent_19: 1303568442459863848
+      modular_ships_transparent_2: 5041764081555146950
+      modular_ships_transparent_20: -637910522019509906
+      modular_ships_transparent_21: 1979525287149211198
+      modular_ships_transparent_22: 602365252905862826
+      modular_ships_transparent_23: -8846824504704885509
+      modular_ships_transparent_24: 790698836419210795
+      modular_ships_transparent_25: -3533464273994291821
+      modular_ships_transparent_26: -8725444932624194867
+      modular_ships_transparent_27: 3725849365560889559
+      modular_ships_transparent_28: 3549415885036077377
+      modular_ships_transparent_29: 2581138322892717743
+      modular_ships_transparent_3: -1546184942418274559
+      modular_ships_transparent_30: 63297005966506975
+      modular_ships_transparent_31: 8173598454174352140
+      modular_ships_transparent_32: -5850438194594363822
+      modular_ships_transparent_33: -2267460671638419399
+      modular_ships_transparent_34: -3588412216683906861
+      modular_ships_transparent_35: 9056060222146359767
+      modular_ships_transparent_36: 850203295615917828
+      modular_ships_transparent_37: 5388303824679368209
+      modular_ships_transparent_38: 7696925144637437450
+      modular_ships_transparent_39: -4327627472491466104
+      modular_ships_transparent_4: 6529587353792446761
+      modular_ships_transparent_40: 7621749084564003932
+      modular_ships_transparent_41: -3173249137082875207
+      modular_ships_transparent_42: 4015978633902268398
+      modular_ships_transparent_43: 1362002687088278063
+      modular_ships_transparent_44: -7565421542661361687
+      modular_ships_transparent_45: -1572849798733732689
+      modular_ships_transparent_46: 2010226582005030764
+      modular_ships_transparent_47: 8879450264371909296
+      modular_ships_transparent_48: -6274531518300885719
+      modular_ships_transparent_49: 110524498136394192
+      modular_ships_transparent_5: 6049666926848157690
+      modular_ships_transparent_50: -3629181810468097762
+      modular_ships_transparent_51: 7802538001621631456
+      modular_ships_transparent_52: 5434694929470182679
+      modular_ships_transparent_53: 8272088389567643776
+      modular_ships_transparent_54: -2182362191167717648
+      modular_ships_transparent_55: 1314991214274688998
+      modular_ships_transparent_56: -1150260952758381689
+      modular_ships_transparent_57: -7368001895104893443
+      modular_ships_transparent_58: 7033499451458632280
+      modular_ships_transparent_59: -1094886309527591398
+      modular_ships_transparent_6: -1704993429543861031
+      modular_ships_transparent_60: -67513913504733351
+      modular_ships_transparent_61: 2238414965760560274
+      modular_ships_transparent_62: -8547834143706999276
+      modular_ships_transparent_63: 7442487057558437333
+      modular_ships_transparent_64: -7353299474087658447
+      modular_ships_transparent_65: -9008470420973915779
+      modular_ships_transparent_66: 2405196726275871791
+      modular_ships_transparent_67: 7452157268657654917
+      modular_ships_transparent_68: 5413221371806081937
+      modular_ships_transparent_69: -3101994285644154550
+      modular_ships_transparent_7: -8437513350592854349
+      modular_ships_transparent_70: 9053724105267354873
+      modular_ships_transparent_71: -279249492930312830
+      modular_ships_transparent_72: -1815266926046846088
+      modular_ships_transparent_73: 7797946795818560196
+      modular_ships_transparent_74: -1644389491374155970
+      modular_ships_transparent_75: -5105134428406159244
+      modular_ships_transparent_76: 4325410223994858893
+      modular_ships_transparent_77: 5095833232313538162
+      modular_ships_transparent_78: 474615199500287414
+      modular_ships_transparent_79: 172932932829751577
+      modular_ships_transparent_8: -5775612394212073652
+      modular_ships_transparent_80: -6204753338448535688
+      modular_ships_transparent_81: -7786686302737139571
+      modular_ships_transparent_82: -7492357753313233503
+      modular_ships_transparent_83: 5570212598456858397
+      modular_ships_transparent_84: 1024411927105295342
+      modular_ships_transparent_85: -474125086648205376
+      modular_ships_transparent_86: -2265282298655552390
+      modular_ships_transparent_87: 6442203974424942790
+      modular_ships_transparent_88: 1216902872096659838
+      modular_ships_transparent_89: -5751531529005014387
+      modular_ships_transparent_9: -1413967881414348253
+      modular_ships_transparent_90: 6494625207756334259
+      modular_ships_transparent_91: -1465516107882140003
+      modular_ships_transparent_92: 3060057484474250292
+      modular_ships_transparent_93: -2965744412214739013
+      modular_ships_transparent_94: -3085975441678014227
+      modular_ships_transparent_95: -6919060862035800776
+      modular_ships_transparent_96: 9175438624543718305
+      modular_ships_transparent_97: -7264197176863982456
+      modular_ships_transparent_98: 1193542794252461029
+      modular_ships_transparent_99: -4517285215693488493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
